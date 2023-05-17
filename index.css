@@ -1,0 +1,29 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  background-color: #E7CBCB;
+  margin: 0px 43px;
+
+}
+
+h1 {
+  color: rgb(111, 170, 223);
+  text-align: center;
+}
+
+table {
+  margin-top: 5px;
+  border-collapse: collapse;
+}
+
+th,
+td {
+  border: 1px solid;
+  padding: 4px;
+}
+
+td {
+  margin: 10px;
+}
